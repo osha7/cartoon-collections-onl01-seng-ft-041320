@@ -6,7 +6,7 @@ def summon_captain_planet(planeteer_calls)
  planeteer_calls.each { |name| puts "#{name}"}
  
  #my_collect(collection) do |lang|
-  lang.upcase
+  #lang.upcase
 end
 end
 
