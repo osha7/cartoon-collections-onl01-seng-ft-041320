@@ -5,11 +5,8 @@ end
 def summon_captain_planet(planeteer_calls)
   new_array = []
   array.map { |calls| calls.upcase }
- # planeteer_calls.each { |name| puts "#{name}"}
+  planeteer_calls.each { |name| puts "#{name}"}
  
- # my_collect(collection) do |lang|
-  # lang.upcase
-# end
 end
 
 def long_planeteer_calls# code an argument here
